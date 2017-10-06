@@ -1,6 +1,6 @@
 # Resources
 
-* [Organisme](#organisme)
+* [Organisme](#api-1-organism)
 * Convention
 * Version
 * Article
