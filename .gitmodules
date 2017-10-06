@@ -1,0 +1,3 @@
+[submodule "submodules/startbootstrap-scrolling-nav"]
+	path = submodules/startbootstrap-scrolling-nav
+	url = https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git
